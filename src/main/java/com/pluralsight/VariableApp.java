@@ -19,13 +19,13 @@ public class VariableApp {
         // Step 2;
 
         int noOfDays = 7;
-        System.out.println("The nunmber of days in a week is" + " " + noOfDays);
+        System.out.println("The number of days in a week is" + " " + noOfDays);
         double priceOfCoffee = 4.99;
         System.out.println("The price of coffee is" + " " + priceOfCoffee);
         char favoriteLetter = 'K';
         System.out.println("My favorite letter is " + " " + favoriteLetter);
         boolean isItRaining = false;
-        System.out.println("Is it raning?" + " " + isItRaining);
+        System.out.println("Is it raining?" + " " + isItRaining);
 
 
 
